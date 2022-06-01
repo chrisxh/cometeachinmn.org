@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Come Teach in Minnesota
 
-You can use the [editor on GitHub](https://github.com/chrisxh/cometeachinmn.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Attracting and retaining a racially, ethnically, and linguistically diverse teacher workforce is vital to reflect the diversity of Minnesota’s student population. The goal of Come Teach in Minnesota is to support districts and charter schools in recruiting and retaining teachers who are American Indian or teachers of color to move to and teach in Minnesota.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Program Summary
+The Come Teach in Minnesota Program provides funding for districts or charter schools to offer hiring bonuses for licensed teachers who are American Indian or people of color who move to Minnesota. Hiring bonuses can be offered to teachers who:
+- Will qualify for a Minnesota professional educator license within two academic years after hire.
+- Have moved to the region in Minnesota where they are hired.
+- Belong to a racial or ethnic group that is underrepresented among teachers, compared to students in the district or school.
 
-### Markdown
+Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers on special assignment (TOSA), school nurses, guidance counselors, or other related-service personnel are not eligible for this program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Hiring and Retention Bonus
+Eligible teachers hired by participating employers may receive a hiring bonus up to $2,500.  If eligible teachers are serving in a licensure shortage area, that bonus can be up to $4,000. Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a retention bonus equal to their hiring bonus.
 
-# Header 1
-## Header 2
-### Header 3
+### Participating Employers (January, 2022 to August, 2022)
+- Elk River-Otsego-Rogers-Zimmerman
+- Minnetonka
+- Rochester
+- Rosemount-Apple Valley-Eagan
+- Roseville
+- St. Francis
+- Stillwater
+- TC German Immersion
+- Wayzata
+- Windom
+- Zumbrota Mazeppa
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisxh/cometeachinmn.org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

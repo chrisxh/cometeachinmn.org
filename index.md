@@ -1,3 +1,9 @@
+---
+title: Come Teach In Minnesota
+description: >- # 
+  Incentives for teachers that move to Minnesota to teach in public schools.
+---
+
 ## Come Teach in Minnesota
 
 Attracting and retaining a racially, ethnically, and linguistically diverse teacher workforce is vital to reflect the diversity of Minnesota’s student population. The goal of Come Teach in Minnesota is to support districts and charter schools in recruiting and retaining teachers who are American Indian or teachers of color to move to and teach in Minnesota.

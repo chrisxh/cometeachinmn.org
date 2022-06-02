@@ -4,3 +4,11 @@
 @import "{{ site.theme }}";
 
 
+// Headers
+$header-bg-color: #003865 !default;
+$header-bg-color-secondary: #78BE21 !default;
+
+// Text
+$section-headings-color: #003865 !default;
+$body-text-color: #303c71 !default;
+$body-link-color: #003865 !default;

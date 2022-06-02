@@ -23,17 +23,17 @@ Eligible teachers hired by participating employers may receive a hiring bonus up
 
 
 ### Participating Employers (January, 2022 to August, 2022)
-- Elk River-Otsego-Rogers-Zimmerman
-- Minnetonka
-- Rochester
-- Rosemount-Apple Valley-Eagan
-- Roseville
-- St. Francis
-- Stillwater
-- TC German Immersion
-- Wayzata
-- Windom
-- Zumbrota Mazeppa
+- Elk River-Otsego-Rogers-Zimmerman [openings↗](https://educatemn.org/company/independent-school-district-728/)
+- Minnetonka [openings↗](https://educatemn.org/company/minnetonka-schools/)
+- Rochester [openings↗](https://educatemn.org/company/rochester-schools/)
+- Rosemount-Apple Valley-Eagan [openings↗](https://educatemn.org/employers/0196-01/)
+- Roseville [openings↗](https://educatemn.org/company/roseville-schools/)
+- St. Francis  [openings↗](https://educatemn.org/company/st-francis-area-schools/)
+- Stillwater [openings↗](https://educatemn.org/company/stillwater-area-schools/)
+- TC German Immersion [openings↗](https://www.tcgis.org/career.html)
+- Wayzata [openings↗](https://educatemn.org/employers/0284-01/)
+- Windom [openings↗](https://educatemn.org/company/windom-schools/)
+- Zumbrota Mazeppa [openings↗](https://educatemn.org/company/zumbrota-mazeppa-school-district/)
 
 
 

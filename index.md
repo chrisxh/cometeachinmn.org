@@ -2,6 +2,8 @@
 title: Come Teach In Minnesota
 description: >- # 
   Incentives for teachers that move to Minnesota to teach in public schools.
+contactform: <div class="_form_9"></div><script src="https://vitamink12.activehosted.com/f/embed.php?id=9" type="text/javascript" charset="utf-8"></script>
+
 ---
 
 ## Attracting and retaining a racially, ethnically, and linguistically diverse teacher workforce is vital to reflect the diversity of Minnesota’s student population. 
@@ -15,7 +17,6 @@ The Come Teach in Minnesota Program provides funding for districts or charter sc
 - Belong to a racial or ethnic group that is underrepresented among teachers, compared to students in the district or school.
 
 Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers on special assignment (TOSA), school nurses, guidance counselors, or other related-service personnel are not eligible for this program.
-
 
 
 ### Hiring and Retention Bonus
@@ -36,4 +37,6 @@ Eligible teachers hired by participating employers may receive a hiring bonus up
 - Zumbrota Mazeppa [openings↗](https://educatemn.org/company/zumbrota-mazeppa-school-district/)
 
 
+
+{{ page.contactform }}
 

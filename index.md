@@ -2,16 +2,16 @@
 title: Come Teach In Minnesota
 description: >- # 
   Incentives for teachers that move to Minnesota to teach in public schools.
-contactform: <div class="_form_9"></div><script src="https://vitamink12.activehosted.com/f/embed.php?id=9" type="text/javascript" charset="utf-8"></script>
+contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/chris-hoehn?hide_gdpr_banner=1&primary_color=003865" style="min-width:320px;height:630px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 ---
 
 ## Attracting and retaining a racially, ethnically, and linguistically diverse teacher workforce is vital to reflect the diversity of Minnesota’s student population. 
-##*The goal of Come Teach in Minnesota is to support districts and charter schools in recruiting and retaining teachers who are American Indian or teachers of color to move to and teach in Minnesota.*
+### The goal of Come Teach in Minnesota is to support districts and charter schools in recruiting and retaining teachers who are American Indian or teachers of color to move to and teach in Minnesota.
 
 
 ### Program Summary
-The Come Teach in Minnesota Program provides funding for districts or charter schools to offer hiring bonuses for licensed teachers who are American Indian or people of color who move to Minnesota. Hiring bonuses can be offered to teachers who:
+The Come Teach in Minnesota Program is a competitive grant administered be the [Minnesota Department of Education](https://education.mn.gov/MDE/dse/equitdiv/ComeTeach/index.htm).  It provides funding for districts or charter schools to offer **hiring bonuses for licensed teachers who are American Indian or people of color who move to Minnesota**. Hiring bonuses can be offered to teachers who:
 - Will qualify for a Minnesota professional educator license within two academic years after hire.
 - Have moved to the region in Minnesota where they are hired.
 - Belong to a racial or ethnic group that is underrepresented among teachers, compared to students in the district or school.
@@ -36,6 +36,11 @@ Eligible teachers hired by participating employers may receive a hiring bonus up
 - Windom [openings↗](https://educatemn.org/company/windom-schools/)
 - Zumbrota Mazeppa [openings↗](https://educatemn.org/company/zumbrota-mazeppa-school-district/)
 
+
+### Get Free 1-on-1 Career Guidance
+Get advice and answers when you talk to a Come Teach in MN navigator. Click below to schedule your free, 15-minute telephone session.
+
+Come Teach in MN navigators are familiar with districts and charter schools across Minnesota, and with the licensing process. They can help you determine the best path for finding a teaching job in Minnesota based on where you are now and where you want to be.  They can also connect you directly with school leaders that are interested in hiring.
 
 
 {{ page.contactform }}

@@ -2,7 +2,7 @@
 title: Come Teach In Minnesota
 description: >- # 
   Incentives for teachers that move to Minnesota to teach in public schools.
-contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/chris-hoehn/come-teach-nav?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/chris-hoehn/come-teach-nav?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=003865" style="min-width:320px;height:630px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 ---
 

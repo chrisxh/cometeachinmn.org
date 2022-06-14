@@ -20,7 +20,7 @@ Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers
 
 
 ### Hiring and Retention Bonus
-Eligible teachers hired by participating employers may receive a hiring bonus up to $2,500.  If eligible teachers are serving in a licensure shortage area, that bonus can be up to $4,000. Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a retention bonus equal to their hiring bonus.
+Eligible teachers hired by participating employers may receive a hiring bonus up to $2,500.  If eligible teachers are serving in a <a href="https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&dDocName=PROD046876&RevisionSelectionMethod=latestReleased&Rendition=primary" target="_blank">licensure shortage area</a>, that bonus can be up to $4,000. Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a retention bonus equal to their hiring bonus.
 
 
 ### Participating Employers (January, 2022 to August, 2022)

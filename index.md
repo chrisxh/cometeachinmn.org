@@ -3,6 +3,7 @@ title: Come Teach In Minnesota
 description: >- # 
   Incentives for teachers that move to Minnesota to teach in public schools.
 contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/chris-hoehn/come-teach-nav?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=003865" style="min-width:320px;height:630px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+locator: <p><iframe src='https://batchgeo.com/map/0b319750991e97965340d6d7b3044282' frameborder='0' width='100%' height='550' sandbox='allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms' allow='geolocation https://batchgeo.com' style='border:1px solid #aaa;' scrolling='no'></iframe></p><p><small>View <a href='https://batchgeo.com/map/0b319750991e97965340d6d7b3044282'>Fall 2023 Come Teach in MN Organizations</a> in a full screen map</small></p>
 
 ---
 
@@ -23,8 +24,28 @@ Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers
 ### Hiring and Retention Bonus
 Eligible teachers hired by participating employers may receive a hiring bonus up to $2,500.  If eligible teachers are serving in a <a href="https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&dDocName=PROD046876&RevisionSelectionMethod=latestReleased&Rendition=primary" target="_blank">licensure shortage area</a>, that bonus can be up to $4,000. Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a retention bonus equal to their hiring bonus.
 
+### Availability
+Funds for hiring bonuses are available to certain district organizations for a limited window of time.  In order to reserve funds for a bonus, the hiring action must be completed within that timeframe.
 
-### Participating Employers (January, 2022 to October, 2022)
+### Current Employers (Starting October, 2022)
+- KIPP MN  [📣 Openings](https://www.kippminnesota.org/careers)
+- Northeast College Prep  [📣 Openings](https://northeastcollegeprep.org/become-a-teacher/)
+- Osseo Area Schools  [📣 Openings](https://www.district279.org/careers)
+- Hopkins Public Schools  [📣 Openings](https://www.hopkinsschools.org/about/careers)
+- Sojourner Truth Academy  [📣 Openings](https://sojournertruthacademy.org/contact-us/job-openings)
+- Prodeo Acedemy  [📣 Openings](https://prodeo-academy.breezy.hr/)
+- St. Michael-Albertville Schools  [📣 Openings](https://www.stma.k12.mn.us/domain/2433)
+- St. Paul Public Schools  [📣 Openings](https://www.spps.org/hr)
+- St. Cloud Area Schools  [📣 Openings](https://www.isd742.org/Page/1057)
+- Universal Academy  [📣 Openings](https://uacsmn.org/index.php/employment)
+- All Star Academy
+
+{{ page.locator }}
+
+
+
+
+### Previous Participating Employers (January, 2022 to October, 2022)
 - Elk River-Otsego-Rogers-Zimmerman [📣 Openings](https://educatemn.org/company/independent-school-district-728/) [🎯 Fact Sheet](/fact-sheets/ISD-728-Elk%20River-Otsego-Rogers-Zimmerman.pdf)
 - Minnetonka [📣 Openings](https://educatemn.org/company/minnetonka-schools/) [🎯 Fact Sheet](/fact-sheets/Minnetonka.pdf)
 - Rochester [📣 Openings](https://educatemn.org/company/rochester-schools/)

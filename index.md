@@ -3,7 +3,7 @@ title: Come Teach In Minnesota
 description: >- # 
   Incentives for teachers that move to Minnesota to teach in public schools.
 contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/chris-hoehn/come-teach-nav?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=003865" style="min-width:320px;height:630px;"></div><script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-locator: <p><iframe src='https://batchgeo.com/map/0b319750991e97965340d6d7b3044282' frameborder='0' width='100%' height='550' sandbox='allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms' allow='geolocation https://batchgeo.com' style='border:1px solid #aaa;' scrolling='no'></iframe></p><p><small>View <a href='https://batchgeo.com/map/0b319750991e97965340d6d7b3044282'>Fall 2023 Come Teach in MN Organizations</a> in a full screen map</small></p>
+locator: <div><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no"></iframe></p><p><small>View <a href="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282">Fall 2023 Come Teach in MN Organizations</a> in a full screen map</small></div>
 
 ---
 
@@ -39,6 +39,7 @@ Funds for hiring bonuses are available to certain district organizations for a l
 - St. Cloud Area Schools  [📣 Openings](https://www.isd742.org/Page/1057)
 - Universal Academy  [📣 Openings](https://uacsmn.org/index.php/employment)
 - All Star Academy
+
 
 {{ page.locator }}
 

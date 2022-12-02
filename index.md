@@ -26,17 +26,19 @@ Eligible teachers hired by participating employers may receive a hiring bonus up
 Funds for hiring bonuses are available to certain district organizations for a limited window of time.  In order to reserve funds for a bonus, the hiring action must be completed within that timeframe.
 
 ### Current Employers (Starting October, 2022)
-- KIPP MN  [📣 Openings](https://www.kippminnesota.org/careers)
-- Northeast College Prep  [📣 Openings](https://northeastcollegeprep.org/become-a-teacher/)
-- Osseo Area Schools  [📣 Openings](https://www.district279.org/careers)
-- Hopkins Public Schools  [📣 Openings](https://www.hopkinsschools.org/about/careers)
-- Sojourner Truth Academy  [📣 Openings](https://sojournertruthacademy.org/contact-us/job-openings)
-- Prodeo Acedemy  [📣 Openings](https://prodeo-academy.breezy.hr/)
-- St. Michael-Albertville Schools  [📣 Openings](https://www.stma.k12.mn.us/domain/2433)
-- St. Paul Public Schools  [📣 Openings](https://www.spps.org/hr)
-- St. Cloud Area Schools  [📣 Openings](https://www.isd742.org/Page/1057)
-- Universal Academy  [📣 Openings](https://uacsmn.org/index.php/employment)
-- All Star Academy
+- **KIPP MN**  [📣 Openings](https://www.kippminnesota.org/careers)
+- **Northeast College Prep**  [📣 Openings](https://northeastcollegeprep.org/become-a-teacher/)
+- **Osseo Area Schools**  [📣 Openings](https://www.district279.org/careers)  
+Contact: Susan Hang, Recruitment and Retention Manager • hangs@district279.org • 763-391-7013
+- **Hopkins Public Schools**  [📣 Openings](https://www.hopkinsschools.org/about/careers)
+- **Sojourner Truth Academy**  [📣 Openings](https://sojournertruthacademy.org/contact-us/job-openings)
+- **Prodeo Acedemy**  [📣 Openings](https://prodeo-academy.breezy.hr/)
+- **St. Michael-Albertville Schools**  [📣 Openings](https://www.stma.k12.mn.us/domain/2433)  
+Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
+- **St. Paul Public Schools**  [📣 Openings](https://www.spps.org/hr)
+- **St. Cloud Area Schools**  [📣 Openings](https://www.isd742.org/Page/1057)
+- **Universal Academy**  [📣 Openings](https://uacsmn.org/index.php/employment)
+- **All Star Academy**
 
 
 <p align="center"><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no"></iframe></p>

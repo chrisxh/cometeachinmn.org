@@ -25,20 +25,27 @@ Eligible teachers hired by participating employers may receive a hiring bonus up
 ### Availability
 Funds for hiring bonuses are available to certain district organizations for a limited window of time.  In order to reserve funds for a bonus, the hiring action must be completed within that timeframe.
 
-### Current Employers (Starting October, 2022)
-- **KIPP MN**  [📣 Openings](https://www.kippminnesota.org/careers)
-- **Northeast College Prep**  [📣 Openings](https://northeastcollegeprep.org/become-a-teacher/)
-- **Osseo Area Schools**  [📣 Openings](https://www.district279.org/careers)  
-Contact: Susan Hang, Recruitment and Retention Manager • hangs@district279.org • 763-391-7013
+### Current Employers (2023 Cohort)
+- **Elk River-Otsego-Rogers-Zimmerman**  [📣 Openings](https://www.isd728.org/domain/151)
+- **Hiawatha Academies**  [📣 Openings](https://www.hiawathaacademies.org/apps/pages/apply-now)
 - **Hopkins Public Schools**  [📣 Openings](https://www.hopkinsschools.org/about/careers)
-- **Sojourner Truth Academy**  [📣 Openings](https://sojournertruthacademy.org/contact-us/job-openings)
+- **KIPP MN**  [📣 Openings](https://www.kippminnesota.org/careers)
+- **Madelia Public Schools**  [📣 Openings](https://www.kippminnesota.org/careers)
+- **Modern Montessori**  [📣 Openings](https://modernmontessoricharter.org/employment)
+- **Northeast College Prep**  [📣 Openings](https://northeastcollegeprep.org/become-a-teacher/)
+- **Northeast Metro Intermediate District**  [📣 Openings](https://www.916schools.org/careers)
+- **Osseo 279**  [📣 Openings](https://www.district279.org/careers)  
+Contact: Susan Hang, Recruitment and Retention Manager • hangs@district279.org • 763-391-7013
+- **Pelican Rapids Public Schools**  [📣 Openings](https://www.pelicanrapids.k12.mn.us/domain/18)
 - **Prodeo Acedemy**  [📣 Openings](https://prodeo-academy.breezy.hr/)
+- **Rockford Area Schools**  [📣 Openings](https://www.rockford.k12.mn.us/district/departments/human-resources/employment)
+- **Sejong Academy**  [📣 Openings](https://www.sejongacademy.org/employment)
+- **Sojourner Truth Academy**  [📣 Openings](https://sojournertruthacademy.org/contact-us/job-openings)
+- **St. Cloud Area Schools**  [📣 Openings](https://www.isd742.org/Page/1057)
 - **St. Michael-Albertville Schools**  [📣 Openings](https://www.stma.k12.mn.us/domain/2433)  
 Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 - **St. Paul Public Schools**  [📣 Openings](https://www.spps.org/hr)
-- **St. Cloud Area Schools**  [📣 Openings](https://www.isd742.org/Page/1057)
 - **Universal Academy**  [📣 Openings](https://uacsmn.org/index.php/employment)
-- **All Star Academy**
 
 
 <p align="center"><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no"></iframe></p>

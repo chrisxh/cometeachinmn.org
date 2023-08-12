@@ -20,12 +20,28 @@ Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers
 
 
 ### Hiring and Retention Bonus
-Eligible teachers hired by participating employers may receive a hiring bonus up to $2,500.  If eligible teachers are serving in a <a href="https://education.mn.gov/mdeprod/idcplg?IdcService=GET_FILE&dDocName=PROD046876&RevisionSelectionMethod=latestReleased&Rendition=primary" target="_blank">licensure shortage area</a>, that bonus can be up to $4,000. Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a retention bonus equal to their hiring bonus.
+Eligible teachers hired by participating employers may receive a **hiring bonus up to $5,000**.  Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a **retention bonus** equal to their hiring bonus.
+
+### Getting Licensed to Teach in Minnesota
+Those who wish to teach in K-12 public schools in Minnesota must earn a professional educator’s license. The [Minnesota Professional Educator Licensing and Standards Board](https://mn.gov/pelsb/), PELSB, is the state agency that oversees teacher licensing.
+
+Minnesota has a tiered system for educator licensure with four different levels, or tiers, available depending on a candidate’s educational attainment, experience, assessment scores, and evaluation.  **A Tier 2 or higher license is required  to be eligible for the Come Teach in Minnesota hiring and retention bonuses.** 
+
+Most candidates with prior teaching experience who are coming from out-of-state apply for either a Tier 2 or Tier 3 license. 
+ To qualify for a Tier 2 license, a candidate must have a job offer with a Minnesota public school and meet Tier 2 requirements. Tier 2 candidates do not need to meet testing requirements.
+ 
+A Tier 3 does not require a job offer, but it does require that you meet testing requirements prior to applying for licensure. 
+<p style="text-align:center" align="center">
+View the <a href="https://mn.gov/pelsb/assets/3453_2023_TieredLicensure_Infographic_tcm1113-584688.pdf" target="_blank">visual guide to tiered licensure requirements in Minnesota.<br /><img width="303" alt="image" src="https://github.com/chrisxh/cometeachinmn.org/assets/1960441/bce75436-e874-43e3-b721-65e2033ba3a2"></a></p>
+
+ 
+Both Tier 2 and Tier 3 applications can be found on [PELSB's Apply for a License webpage](https://mn.gov/pelsb/aspiring-educators/apply/).
+
 
 ### Availability
-Funds for hiring bonuses are available to certain district organizations for a limited window of time.  In order to reserve funds for a bonus, the hiring action must be completed within that timeframe.
+Funds for hiring bonuses are available to certain district organizations for a limited window of time.  See the below list of employers that are currently a part of the program.
 
-### Current Employers (2023 Cohort)
+### Current Employers (active until October, 2023)
 - **Elk River-Otsego-Rogers-Zimmerman**  [📣 Openings](https://www.isd728.org/domain/151)
 - **Hiawatha Academies**  [📣 Openings](https://www.hiawathaacademies.org/apps/pages/apply-now)
 - **Hopkins Public Schools**  [📣 Openings](https://www.hopkinsschools.org/about/careers)

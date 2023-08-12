@@ -64,7 +64,7 @@ Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 - **Universal Academy**  [📣 Openings](https://uacsmn.org/index.php/employment)
 
 
-<p align="center"><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no"></iframe></p>
+<p align="center"><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no" title="Interactive map of current school employers"></iframe></p>
 
 
 

@@ -25,12 +25,13 @@ Eligible teachers hired by participating employers may receive a **hiring bonus 
 # Getting Licensed to Teach in Minnesota
 Those who wish to teach in K-12 public schools in Minnesota must earn a professional educator’s license. The [Minnesota Professional Educator Licensing and Standards Board](https://mn.gov/pelsb/), PELSB, is the state agency that oversees teacher licensing.
 
-Minnesota has a tiered system for educator licensure with four different levels, or tiers, available depending on a candidate’s educational attainment, experience, assessment scores, and evaluation.  **A Tier 2 or higher license is required  to be eligible for the Come Teach in Minnesota hiring and retention bonuses.** 
+Minnesota has a tiered system for educator licensure with four different levels, or tiers, available depending on a candidate’s educational attainment, experience, assessment scores, and evaluation.  **A Tier 2 or higher license is required to be eligible for the Come Teach in Minnesota hiring and retention bonuses.** 
 
-Most candidates with prior teaching experience who are coming from out-of-state apply for either a Tier 2 or Tier 3 license. 
- To qualify for a Tier 2 license, a candidate must have a job offer with a Minnesota public school and meet Tier 2 requirements. Tier 2 candidates do not need to meet testing requirements.
+Most candidates with prior teaching experience who are coming from out-of-state apply for either a Tier 2 or Tier 3 license.  To qualify for a Tier 2 license, a candidate must have a job offer with a Minnesota public school and meet Tier 2 requirements. Tier 2 candidates do not need to meet testing requirements.
  
-A Tier 3 does not require a job offer, but it does require that you meet testing requirements prior to applying for licensure. 
+A Tier 3 does not require a job offer, but it does require that you meet testing requirements prior to applying for licensure. See the [Out-of-State testing FAQ document](https://mn.gov/pelsb/assets/Out%20of%20State%20Testing%20FAQ%20POST%2003.25.22_tcm1113-522693.pdf) for more guidance.
+
+
 <p style="text-align:center" align="center">
 View the <a href="https://mn.gov/pelsb/assets/3453_2023_TieredLicensure_Infographic_tcm1113-584688.pdf" target="_blank">visual guide to tiered licensure requirements in Minnesota.<br /><img width="303" alt="image" src="https://github.com/chrisxh/cometeachinmn.org/assets/1960441/bce75436-e874-43e3-b721-65e2033ba3a2"></a></p>
 
@@ -49,6 +50,13 @@ Both Tier 2 and Tier 3 applications can be found on [PELSB's Apply for a License
 > **Job seekers**, be sure to tell potential employers about your eligibility for the Come Teach in Minnesota program in your application cover letter.
 
 
+# Job Seekers: Get Free 1-on-1 Career Guidance
+Get advice and answers when you talk to a Come Teach in MN navigator. Click below to schedule your free, 15-minute telephone session.
+
+Come Teach in MN navigators are familiar with districts and charter schools across Minnesota, and with the licensing process. They can help you determine the best path for finding a teaching job in Minnesota based on where you are now and where you want to be.  They can also connect you directly with school leaders that are interested in hiring.
+
+
+{{ page.contactform }}
 
 
 ---
@@ -97,11 +105,5 @@ Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 - Zumbrota Mazeppa [📣 Openings](https://educatemn.org/company/zumbrota-mazeppa-school-district/)
 
 
-# Get Free 1-on-1 Career Guidance
-Get advice and answers when you talk to a Come Teach in MN navigator. Click below to schedule your free, 15-minute telephone session.
 
-Come Teach in MN navigators are familiar with districts and charter schools across Minnesota, and with the licensing process. They can help you determine the best path for finding a teaching job in Minnesota based on where you are now and where you want to be.  They can also connect you directly with school leaders that are interested in hiring.
-
-
-{{ page.contactform }}
 

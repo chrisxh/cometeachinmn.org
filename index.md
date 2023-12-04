@@ -9,7 +9,7 @@ contactform: <div class="calendly-inline-widget" data-url="https://calendly.com/
 ### The goal of Come Teach in Minnesota is to support districts and charter schools in recruiting and retaining teachers who are American Indian or teachers of color to move to and teach in Minnesota.
 
 
-### Program Summary
+# Program Summary
 The Come Teach in Minnesota Program is a competitive grant administered be the [Minnesota Department of Education](https://education.mn.gov/MDE/dse/equitdiv/ComeTeach/index.htm).  It provides funding for districts or charter schools to offer **hiring bonuses for licensed teachers who are American Indian or people of color who move to Minnesota**. Hiring bonuses can be offered to teachers who:
 - Will qualify for a Minnesota professional educator license within two academic years after hire.
 - Have moved to the region in Minnesota where they are hired.
@@ -19,10 +19,10 @@ The Come Teach in Minnesota Program is a competitive grant administered be the [
 Staff receiving a hiring bonus must be employed as a classroom teacher. Teachers on special assignment (TOSA), school nurses, guidance counselors, or other related-service personnel are not eligible for this program.
 
 
-### Hiring and Retention Bonus
+# Hiring and Retention Bonus
 Eligible teachers hired by participating employers may receive a **hiring bonus up to $5,000**.  Additionally, if a teacher who received a hiring bonus successfully completes four years of service in the hiring district or charter school, that teacher can receive a **retention bonus** equal to their hiring bonus.
 
-### Getting Licensed to Teach in Minnesota
+# Getting Licensed to Teach in Minnesota
 Those who wish to teach in K-12 public schools in Minnesota must earn a professional educator’s license. The [Minnesota Professional Educator Licensing and Standards Board](https://mn.gov/pelsb/), PELSB, is the state agency that oversees teacher licensing.
 
 Minnesota has a tiered system for educator licensure with four different levels, or tiers, available depending on a candidate’s educational attainment, experience, assessment scores, and evaluation.  **A Tier 2 or higher license is required  to be eligible for the Come Teach in Minnesota hiring and retention bonuses.** 
@@ -38,11 +38,26 @@ View the <a href="https://mn.gov/pelsb/assets/3453_2023_TieredLicensure_Infograp
 Both Tier 2 and Tier 3 applications can be found on [PELSB's Apply for a License webpage](https://mn.gov/pelsb/aspiring-educators/apply/).
 
 
-### Availability
-Funds for hiring bonuses are available to certain district organizations for a limited window of time.  See the below list of employers that are currently a part of the program.
+# Availability
 
-### Current Employers (active until October, 2023)
-- **Elk River-Otsego-Rogers-Zimmerman**  [📣 Openings](https://www.isd728.org/domain/151)
+### NEW FOR THE 2023-2024 SCHOOL YEAR • Funds for hiring bonuses are available to all Minnesota public schools beginning November 2023.  
+
+> [!IMPORTANT]
+> **District contacts**, you must enroll in the program to be eligible for reimbursement. Complete the [Enrollment Process at the MDE Website](https://education.mn.gov/MDE/dse/equitdiv/ComeTeach/index.htm).
+
+> [!TIP]
+> **Job seekers**, be sure to tell potential employers about your eligibility for the Come Teach in Minnesota program in your application cover letter.
+
+
+
+
+---
+
+
+
+
+## Previous Participating Employers (October, 2022 to October, 2023)
+Elk River-Otsego-Rogers-Zimmerman**  [📣 Openings](https://www.isd728.org/domain/151)
 - **Hiawatha Academies**  [📣 Openings](https://www.hiawathaacademies.org/apps/pages/apply-now)
 - **Hopkins Public Schools**  [📣 Openings](https://www.hopkinsschools.org/about/careers)
 - **KIPP MN**  [📣 Openings](https://www.kippminnesota.org/careers)
@@ -68,7 +83,7 @@ Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 
 
 
-### Previous Participating Employers (January, 2022 to October, 2022)
+## Previous Participating Employers (January, 2022 to October, 2022)
 - Elk River-Otsego-Rogers-Zimmerman [📣 Openings](https://educatemn.org/company/independent-school-district-728/) [🎯 Fact Sheet](/fact-sheets/ISD-728-Elk%20River-Otsego-Rogers-Zimmerman.pdf)
 - Minnetonka [📣 Openings](https://educatemn.org/company/minnetonka-schools/) [🎯 Fact Sheet](/fact-sheets/Minnetonka.pdf)
 - Rochester [📣 Openings](https://educatemn.org/company/rochester-schools/)
@@ -82,7 +97,7 @@ Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 - Zumbrota Mazeppa [📣 Openings](https://educatemn.org/company/zumbrota-mazeppa-school-district/)
 
 
-### Get Free 1-on-1 Career Guidance
+# Get Free 1-on-1 Career Guidance
 Get advice and answers when you talk to a Come Teach in MN navigator. Click below to schedule your free, 15-minute telephone session.
 
 Come Teach in MN navigators are familiar with districts and charter schools across Minnesota, and with the licensing process. They can help you determine the best path for finding a teaching job in Minnesota based on where you are now and where you want to be.  They can also connect you directly with school leaders that are interested in hiring.

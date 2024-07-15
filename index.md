@@ -33,7 +33,7 @@ A Tier 3 does not require a job offer, but it does require that you meet testing
 
 
 <p style="text-align:center" align="center">
-View the <a href="https://mn.gov/pelsb/assets/3453_2023_TieredLicensure_Infographic_tcm1113-584688.pdf" target="_blank">visual guide to tiered licensure requirements in Minnesota.<br /><img width="303" alt="image" src="https://github.com/chrisxh/cometeachinmn.org/assets/1960441/bce75436-e874-43e3-b721-65e2033ba3a2"></a></p>
+View the <a href="https://mn.gov/pelsb/assets/Final_tcm1113-627162.pdf" target="_blank">visual guide to tiered licensure requirements in Minnesota.<br /><img width="303" alt="Infographic thumbnail" src="https://github.com/user-attachments/assets/7380b0df-c4c0-4f04-b020-698115a8020b"></a></p>
 
  
 Both Tier 2 and Tier 3 applications can be found on [PELSB's Apply for a License webpage](https://mn.gov/pelsb/aspiring-educators/apply/).
@@ -87,7 +87,7 @@ Contact: Grace Sawatzke, Human Resources Specialist • gracesa@mystma.org
 - **Universal Academy**  [📣 Openings](https://uacsmn.org/index.php/employment)
 
 
-<p align="center"><iframe src="https://batchgeo.com/map/0b319750991e97965340d6d7b3044282" frameborder="0" width="100%" height="550" sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-modals allow-forms" allow="geolocation https://batchgeo.com" style="border:1px solid #aaa;" scrolling="no" title="Interactive map of current school employers"></iframe></p>
+<p align="center"></p>
 
 
 
